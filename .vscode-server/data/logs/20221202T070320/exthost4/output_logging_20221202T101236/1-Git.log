@@ -1,0 +1,26 @@
+[2022-12-02T10:12:37.878Z] Log level: Info
+[2022-12-02T10:12:37.915Z] [info] Validating found git in: git
+[2022-12-02T10:12:38.019Z] [info] Using git 2.37.2 from git
+[2022-12-02T10:12:38.069Z] > git rev-parse --show-toplevel [19ms]
+[2022-12-02T10:12:38.107Z] > git rev-parse --git-dir --git-common-dir [7ms]
+[2022-12-02T10:12:38.124Z] [info] Open repository: /root
+[2022-12-02T10:12:38.241Z] > git rev-parse --show-toplevel [56ms]
+[2022-12-02T10:12:38.413Z] > git rev-parse --show-toplevel [103ms]
+[2022-12-02T10:12:38.526Z] > git rev-parse --show-toplevel [79ms]
+[2022-12-02T10:12:38.577Z] > git rev-parse --show-toplevel [26ms]
+[2022-12-02T10:12:38.625Z] > git rev-parse --show-toplevel [18ms]
+[2022-12-02T10:12:38.688Z] > git status -z -uall [529ms]
+[2022-12-02T10:12:38.712Z] > git rev-parse --show-toplevel [61ms]
+[2022-12-02T10:12:38.730Z] > git symbolic-ref --short HEAD [18ms]
+[2022-12-02T10:12:38.752Z] > git rev-parse --show-toplevel [25ms]
+[2022-12-02T10:12:38.778Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [27ms]
+[2022-12-02T10:12:38.812Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [17ms]
+[2022-12-02T10:12:38.876Z] > git remote --verbose [70ms]
+[2022-12-02T10:12:40.344Z] > git check-ignore -v -z --stdin [252ms]
+[2022-12-02T10:12:40.354Z] > git config --get commit.template [212ms]
+[2022-12-02T10:12:41.474Z] > git status -z -uall [1097ms]
+[2022-12-02T10:12:41.653Z] > git symbolic-ref --short HEAD [129ms]
+[2022-12-02T10:12:41.768Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [88ms]
+[2022-12-02T10:12:41.866Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [81ms]
+[2022-12-02T10:12:41.881Z] > git remote --verbose [58ms]
+[2022-12-02T10:12:44.147Z] > git config --get commit.template [74ms]

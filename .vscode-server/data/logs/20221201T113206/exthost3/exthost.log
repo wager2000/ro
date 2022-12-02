@@ -1,0 +1,5 @@
+[2022-12-01 12:17:28.172] [exthost] [info] Extension host with pid 30759 started
+[2022-12-01 12:18:51.963] [exthost] [info] Lock '/root/.vscode-server/data/User/workspaceStorage/11e8db22f723f2592400fb9270f18344/vscode.lock': Lock acquired.
+[2022-12-01 12:26:03.007] [exthost] [info] Extension host terminating: renderer disconnected for too long (2)
+[2022-12-01 12:26:03.009] [exthost] [info] Lock '/root/.vscode-server/data/User/workspaceStorage/11e8db22f723f2592400fb9270f18344/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-12-01 12:26:03.011] [exthost] [info] Extension host with pid 30759 exiting with code 0

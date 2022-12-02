@@ -1,0 +1,15 @@
+[2022-12-01 11:09:40.995] [exthost] [info] Extension host with pid 27479 started
+[2022-12-01 11:09:41.094] [exthost] [info] Lock '/root/.vscode-server/data/User/workspaceStorage/2b99fa3416bd8200b17bdd93db104875/vscode.lock': Lock acquired.
+[2022-12-01 11:09:41.197] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-12-01 11:09:41.198] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-12-01 11:09:41.199] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-12-01 11:09:41.199] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-12-01 11:09:41.305] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-12-01 11:09:41.976] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-12-01 11:09:41.977] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-12-01 11:09:56.068] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-01 11:09:56.091] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-01 11:09:57.321] [exthost] [info] Eager extensions activated
+[2022-12-01 11:32:00.470] [exthost] [info] Extension host terminating: parent process 23025 does not exist anymore: kill ESRCH (code: ESRCH) (errno: -3)
+[2022-12-01 11:32:00.475] [exthost] [info] Lock '/root/.vscode-server/data/User/workspaceStorage/2b99fa3416bd8200b17bdd93db104875/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-12-01 11:32:00.796] [exthost] [info] Extension host with pid 27479 exiting with code 0

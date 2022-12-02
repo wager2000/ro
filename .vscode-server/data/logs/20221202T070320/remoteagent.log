@@ -1,0 +1,22 @@
+[2022-12-02 07:03:20.413] [remoteagent] [info] Extension host agent started.
+[2022-12-02 07:03:20.903] [remoteagent] [info] [127.0.0.1][8e50db76][ManagementConnection] New connection established.
+[2022-12-02 07:03:20.924] [remoteagent] [info] [127.0.0.1][0926e81b][ExtensionHostConnection] New connection established.
+[2022-12-02 07:03:20.931] [remoteagent] [info] [127.0.0.1][0926e81b][ExtensionHostConnection] <45714> Launched Extension Host Process.
+[2022-12-02 07:03:29.446] [remoteagent] [info] [127.0.0.1][8e50db76][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-12-02 07:03:29.463] [remoteagent] [info] [127.0.0.1][0926e81b][ExtensionHostConnection] <45714> Extension Host Process exited with code: 0, signal: null.
+[2022-12-02 07:03:29.463] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-12-02 07:03:38.593] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-12-02 07:03:38.593] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-12-02 07:03:38.740] [remoteagent] [info] [127.0.0.1][354fa76b][ManagementConnection] New connection established.
+[2022-12-02 07:03:38.844] [remoteagent] [info] [127.0.0.1][506bc71e][ExtensionHostConnection] New connection established.
+[2022-12-02 07:03:38.858] [remoteagent] [info] [127.0.0.1][506bc71e][ExtensionHostConnection] <45849> Launched Extension Host Process.
+[2022-12-02 07:08:38.598] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-12-02 07:39:18.793] [remoteagent] [info] [127.0.0.1][506bc71e][ExtensionHostConnection] The client has reconnected.
+[2022-12-02 07:57:29.793] [remoteagent] [info] [127.0.0.1][429d08f1][ManagementConnection] New connection established.
+[2022-12-02 07:57:29.890] [remoteagent] [info] [127.0.0.1][58d0aa0a][ExtensionHostConnection] New connection established.
+[2022-12-02 07:57:29.905] [remoteagent] [info] [127.0.0.1][58d0aa0a][ExtensionHostConnection] <47263> Launched Extension Host Process.
+[2022-12-02 08:02:30.286] [remoteagent] [info] [127.0.0.1][506bc71e][ExtensionHostConnection] <45849> Extension Host Process exited with code: 0, signal: null.
+[2022-12-02 08:27:27.402] [remoteagent] [info] [127.0.0.1][58d0aa0a][ExtensionHostConnection] The client has reconnected.
+[2022-12-02 10:12:34.960] [remoteagent] [info] [127.0.0.1][48eefddd][ManagementConnection] New connection established.
+[2022-12-02 10:12:35.007] [remoteagent] [info] [127.0.0.1][3030ca62][ExtensionHostConnection] New connection established.
+[2022-12-02 10:12:35.021] [remoteagent] [info] [127.0.0.1][3030ca62][ExtensionHostConnection] <50356> Launched Extension Host Process.

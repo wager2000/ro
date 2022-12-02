@@ -1,0 +1,95 @@
+[2022-12-02T07:57:32.138Z] Log level: Info
+[2022-12-02T07:57:32.167Z] [info] Validating found git in: git
+[2022-12-02T07:57:32.277Z] [info] Using git 2.37.2 from git
+[2022-12-02T07:57:32.313Z] > git rev-parse --show-toplevel [15ms]
+[2022-12-02T07:57:32.335Z] > git rev-parse --git-dir --git-common-dir [6ms]
+[2022-12-02T07:57:32.356Z] [info] Open repository: /root
+[2022-12-02T07:57:32.433Z] > git rev-parse --show-toplevel [49ms]
+[2022-12-02T07:57:32.486Z] > git rev-parse --show-toplevel [23ms]
+[2022-12-02T07:57:32.554Z] > git rev-parse --show-toplevel [47ms]
+[2022-12-02T07:57:32.606Z] > git status -z -uall [238ms]
+[2022-12-02T07:57:32.614Z] > git rev-parse --show-toplevel [47ms]
+[2022-12-02T07:57:32.625Z] > git symbolic-ref --short HEAD [11ms]
+[2022-12-02T07:57:32.637Z] > git rev-parse --show-toplevel [14ms]
+[2022-12-02T07:57:32.647Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+[2022-12-02T07:57:32.669Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+[2022-12-02T07:57:32.669Z] > git rev-parse --show-toplevel [23ms]
+[2022-12-02T07:57:32.679Z] > git remote --verbose [14ms]
+[2022-12-02T07:57:34.385Z] > git check-ignore -v -z --stdin [39ms]
+[2022-12-02T07:57:34.390Z] > git config --get commit.template [180ms]
+[2022-12-02T07:57:34.588Z] > git status -z -uall [183ms]
+[2022-12-02T07:57:34.630Z] > git symbolic-ref --short HEAD [34ms]
+[2022-12-02T07:57:34.645Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+[2022-12-02T07:57:34.666Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+[2022-12-02T07:57:34.674Z] > git remote --verbose [9ms]
+[2022-12-02T07:57:35.957Z] > git config --get commit.template [1152ms]
+[2022-12-02T07:57:36.070Z] > git check-ignore -v -z --stdin [53ms]
+[2022-12-02T07:57:36.669Z] > git check-ignore -v -z --stdin [11ms]
+[2022-12-02T07:58:05.897Z] > git -c user.useConfigOnly=true commit --quiet [65ms]
+[2022-12-02T07:58:05.897Z] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+[2022-12-02T07:58:05.909Z] > git config --get-all user.name [2ms]
+[2022-12-02T07:58:21.151Z] > git -c user.useConfigOnly=true commit --quiet [37ms]
+[2022-12-02T07:58:21.151Z] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+[2022-12-02T07:58:21.165Z] > git config --get-all user.name [4ms]
+[2022-12-02T07:58:45.200Z] > git status -z -uall [70ms]
+[2022-12-02T07:58:45.215Z] > git symbolic-ref --short HEAD [5ms]
+[2022-12-02T07:58:45.225Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+[2022-12-02T07:58:45.241Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+[2022-12-02T07:58:45.245Z] > git remote --verbose [5ms]
+[2022-12-02T07:58:45.388Z] > git config --get commit.template [22ms]
+[2022-12-02T07:59:37.622Z] > git show --textconv :.git/COMMIT_EDITMSG [11ms]
+[2022-12-02T07:59:37.627Z] > git ls-files --stage -- /root/.git/COMMIT_EDITMSG [7ms]
+[2022-12-02T07:59:37.922Z] > git check-ignore -v -z --stdin [6ms]
+[2022-12-02T07:59:38.139Z] > git ls-files --stage -- /root/.git/COMMIT_EDITMSG [4ms]
+[2022-12-02T07:59:38.181Z] > git show --textconv :.git/COMMIT_EDITMSG [4ms]
+[2022-12-02T07:59:45.433Z] > git check-ignore -v -z --stdin [7ms]
+[2022-12-02T08:04:53.134Z] > git check-ignore -v -z --stdin [21ms]
+[2022-12-02T08:04:54.637Z] > git check-ignore -v -z --stdin [32ms]
+[2022-12-02T08:04:55.949Z] > git check-ignore -v -z --stdin [34ms]
+[2022-12-02T08:11:55.198Z] > git ls-files --stage -- /root/.git/COMMIT_EDITMSG [4ms]
+[2022-12-02T08:11:55.240Z] > git show --textconv :.git/COMMIT_EDITMSG [4ms]
+[2022-12-02T08:14:18.139Z] > git check-ignore -v -z --stdin [7ms]
+[2022-12-02T08:17:19.986Z] > git ls-files --stage -- /root/.git/COMMIT_EDITMSG [4ms]
+[2022-12-02T08:17:20.030Z] > git show --textconv :.git/COMMIT_EDITMSG [5ms]
+[2022-12-02T08:21:27.356Z] > git ls-files --stage -- /root/.git/COMMIT_EDITMSG [4ms]
+[2022-12-02T08:21:27.398Z] > git show --textconv :.git/COMMIT_EDITMSG [4ms]
+[2022-12-02T08:21:43.936Z] > git ls-files --stage -- /root/.git/COMMIT_EDITMSG [3ms]
+[2022-12-02T08:21:43.977Z] > git show --textconv :.git/COMMIT_EDITMSG [5ms]
+[2022-12-02T08:22:30.796Z] > git show --textconv :chatapp/app.js [29ms]
+[2022-12-02T08:22:30.813Z] > git ls-files --stage -- /root/chatapp/app.js [20ms]
+[2022-12-02T08:22:30.850Z] > git cat-file -s 52ec0a249f97ddae0ae83c226243f0e94778a883 [6ms]
+[2022-12-02T08:24:06.157Z] > git show --textconv :chatapp/app.js [18ms]
+[2022-12-02T08:24:06.167Z] > git ls-files --stage -- /root/chatapp/app.js [18ms]
+[2022-12-02T08:24:06.176Z] > git cat-file -s 52ec0a249f97ddae0ae83c226243f0e94778a883 [2ms]
+[2022-12-02T08:24:16.306Z] > git show --textconv :chatapp/public/chat.js [23ms]
+[2022-12-02T08:24:16.313Z] > git ls-files --stage -- /root/chatapp/public/chat.js [13ms]
+[2022-12-02T08:24:16.334Z] > git cat-file -s a13dc069b1ef303f31d1dc4790dddbd0cee55f47 [6ms]
+[2022-12-02T08:24:30.409Z] > git show --textconv :chatapp/app.js [16ms]
+[2022-12-02T08:24:30.418Z] > git ls-files --stage -- /root/chatapp/app.js [10ms]
+[2022-12-02T08:24:30.431Z] > git cat-file -s 52ec0a249f97ddae0ae83c226243f0e94778a883 [3ms]
+[2022-12-02T08:25:51.269Z] > git check-ignore -v -z --stdin [5ms]
+[2022-12-02T08:25:53.917Z] > git check-ignore -v -z --stdin [4ms]

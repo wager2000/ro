@@ -1,0 +1,11 @@
+[2022-12-01 12:21:27.062] [exthost] [info] Extension host with pid 31092 started
+[2022-12-01 12:21:27.293] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-12-01 12:21:27.295] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-12-01 12:21:27.300] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-12-01 12:21:27.566] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-12-01 12:21:27.574] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-12-01 12:21:55.071] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-01 12:21:55.210] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-01 12:21:55.334] [exthost] [info] Eager extensions activated
+[2022-12-01 12:22:28.938] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-12-01 12:23:35.084] [exthost] [info] Extension host with pid 31092 exiting with code 0

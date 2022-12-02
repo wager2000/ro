@@ -1,0 +1,78 @@
+[2022-12-01 09:24:26.935] [remoteagent] [info] Extension host agent started.
+[2022-12-01 09:24:27.431] [remoteagent] [info] [127.0.0.1][350f8411][ManagementConnection] New connection established.
+[2022-12-01 09:24:27.559] [remoteagent] [info] [127.0.0.1][2fb96d97][ExtensionHostConnection] New connection established.
+[2022-12-01 09:24:27.584] [remoteagent] [info] [127.0.0.1][2fb96d97][ExtensionHostConnection] <23097> Launched Extension Host Process.
+[2022-12-01 09:24:51.978] [remoteagent] [info] [127.0.0.1][b8afda99][ManagementConnection] New connection established.
+[2022-12-01 09:24:52.138] [remoteagent] [info] [127.0.0.1][2da9863b][ExtensionHostConnection] New connection established.
+[2022-12-01 09:24:52.185] [remoteagent] [info] [127.0.0.1][2da9863b][ExtensionHostConnection] <23130> Launched Extension Host Process.
+[2022-12-01 09:25:05.941] [remoteagent] [info] [127.0.0.1][b8afda99][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-12-01 09:25:05.961] [remoteagent] [info] [127.0.0.1][2da9863b][ExtensionHostConnection] <23130> Extension Host Process exited with code: 0, signal: null.
+[2022-12-01 09:25:07.222] [remoteagent] [info] [127.0.0.1][701ee82b][ManagementConnection] New connection established.
+[2022-12-01 09:25:07.284] [remoteagent] [info] [127.0.0.1][1b4e7618][ExtensionHostConnection] New connection established.
+[2022-12-01 09:25:07.289] [remoteagent] [info] [127.0.0.1][1b4e7618][ExtensionHostConnection] <23161> Launched Extension Host Process.
+[2022-12-01 09:25:20.081] [remoteagent] [info] [127.0.0.1][350f8411][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-12-01 09:25:20.102] [remoteagent] [info] [127.0.0.1][2fb96d97][ExtensionHostConnection] <23097> Extension Host Process exited with code: 0, signal: null.
+[2022-12-01 09:48:52.593] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-01 09:51:44.435] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-01 09:53:47.331] [remoteagent] [info] [127.0.0.1][7de3fd79][ManagementConnection] New connection established.
+[2022-12-01 09:53:47.553] [remoteagent] [info] [127.0.0.1][c4feee12][ExtensionHostConnection] New connection established.
+[2022-12-01 09:53:47.596] [remoteagent] [info] [127.0.0.1][c4feee12][ExtensionHostConnection] <24484> Launched Extension Host Process.
+[2022-12-01 09:55:51.607] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-01 09:57:04.070] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-01 10:04:19.020] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-01 10:04:24.528] [remoteagent] [info] [127.0.0.1][86c0dc44][ManagementConnection] New connection established.
+[2022-12-01 10:04:25.399] [remoteagent] [info] [127.0.0.1][21f4c789][ExtensionHostConnection] New connection established.
+[2022-12-01 10:04:25.936] [remoteagent] [info] [127.0.0.1][21f4c789][ExtensionHostConnection] <24955> Launched Extension Host Process.
+[2022-12-01 10:04:36.383] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-01 10:07:02.926] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-01 10:08:20.752] [remoteagent] [info] [127.0.0.1][1b4e7618][ExtensionHostConnection] <23161> Extension Host Process exited with code: 0, signal: null.
+[2022-12-01 10:11:40.690] [remoteagent] [info] [127.0.0.1][c4feee12][ExtensionHostConnection] <24484> Extension Host Process exited with code: 0, signal: null.
+[2022-12-01 10:32:29.839] [remoteagent] [info] [127.0.0.1][f84cba23][ManagementConnection] New connection established.
+[2022-12-01 10:32:29.915] [remoteagent] [info] [127.0.0.1][ce9674f3][ExtensionHostConnection] New connection established.
+[2022-12-01 10:32:29.928] [remoteagent] [info] [127.0.0.1][ce9674f3][ExtensionHostConnection] <25403> Launched Extension Host Process.
+[2022-12-01 10:37:30.132] [remoteagent] [info] [127.0.0.1][21f4c789][ExtensionHostConnection] <24955> Extension Host Process exited with code: 0, signal: null.
+[2022-12-01 10:52:48.360] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-01 10:52:48.648] [remoteagent] [info] [127.0.0.1][ce9674f3][ExtensionHostConnection] The client has reconnected.
+[2022-12-01 10:55:01.786] [remoteagent] [info] [127.0.0.1][15637d0f][ManagementConnection] New connection established.
+[2022-12-01 10:55:01.853] [remoteagent] [info] [127.0.0.1][38797003][ExtensionHostConnection] New connection established.
+[2022-12-01 10:55:01.864] [remoteagent] [info] [127.0.0.1][38797003][ExtensionHostConnection] <26554> Launched Extension Host Process.
+[2022-12-01 10:57:13.086] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-01 10:57:34.267] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-01 10:57:56.892] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-01 10:58:54.069] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-01 10:59:27.106] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-01 10:59:48.108] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-01 11:02:48.296] [remoteagent] [info] [127.0.0.1][ce9674f3][ExtensionHostConnection] <25403> Extension Host Process exited with code: 0, signal: null.
+[2022-12-01 11:02:48.459] [remoteagent] [info] [127.0.0.1][15637d0f][ManagementConnection] The client has reconnected.
+[2022-12-01 11:02:48.732] [remoteagent] [info] [127.0.0.1][38797003][ExtensionHostConnection] The client has reconnected.
+[2022-12-01 11:09:39.303] [remoteagent] [info] [127.0.0.1][c72a25a5][ManagementConnection] New connection established.
+[2022-12-01 11:09:39.431] [remoteagent] [info] [127.0.0.1][1cd1fee7][ExtensionHostConnection] New connection established.
+[2022-12-01 11:09:39.446] [remoteagent] [info] [127.0.0.1][1cd1fee7][ExtensionHostConnection] <27479> Launched Extension Host Process.
+[2022-12-01 11:11:37.073] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-01 11:13:24.651] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-01 11:16:47.373] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-01 11:17:17.855] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-01 11:17:38.956] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-01 11:20:04.937] [remoteagent] [info] [127.0.0.1][38797003][ExtensionHostConnection] <26554> Extension Host Process exited with code: 0, signal: null.
+[2022-12-01 11:20:10.958] [remoteagent] [info] [127.0.0.1][6c7e4b03][ManagementConnection] New connection established.
+[2022-12-01 11:20:11.019] [remoteagent] [info] [127.0.0.1][29e587ae][ExtensionHostConnection] New connection established.
+[2022-12-01 11:20:11.045] [remoteagent] [info] [127.0.0.1][29e587ae][ExtensionHostConnection] <28245> Launched Extension Host Process.
+[2022-12-01 11:20:41.477] [remoteagent] [info] [127.0.0.1][6c7e4b03][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-12-01 11:20:41.504] [remoteagent] [info] [127.0.0.1][29e587ae][ExtensionHostConnection] <28245> Extension Host Process exited with code: 0, signal: null.
+[2022-12-01 11:20:46.327] [remoteagent] [info] [127.0.0.1][55475173][ManagementConnection] New connection established.
+[2022-12-01 11:20:46.448] [remoteagent] [info] [127.0.0.1][c0e72dd6][ExtensionHostConnection] New connection established.
+[2022-12-01 11:20:46.484] [remoteagent] [info] [127.0.0.1][c0e72dd6][ExtensionHostConnection] <28385> Launched Extension Host Process.
+[2022-12-01 11:21:24.271] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-01 11:23:02.238] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-01 11:23:20.878] [remoteagent] [info] [127.0.0.1][66026eb8][ManagementConnection] New connection established.
+[2022-12-01 11:23:21.086] [remoteagent] [info] [127.0.0.1][8be522fc][ExtensionHostConnection] New connection established.
+[2022-12-01 11:23:21.545] [remoteagent] [info] [127.0.0.1][8be522fc][ExtensionHostConnection] <28667> Launched Extension Host Process.
+[2022-12-01 11:23:49.460] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-01 11:24:29.715] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-01 11:26:58.628] [remoteagent] [info] [127.0.0.1][de26f801][ManagementConnection] New connection established.
+[2022-12-01 11:26:59.526] [remoteagent] [info] [127.0.0.1][51b83d70][ExtensionHostConnection] New connection established.
+[2022-12-01 11:27:01.465] [remoteagent] [info] [127.0.0.1][51b83d70][ExtensionHostConnection] <28998> Launched Extension Host Process.
+[2022-12-01 11:27:01.978] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-01 11:27:22.753] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-01 11:30:13.604] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-01 11:31:50.732] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds

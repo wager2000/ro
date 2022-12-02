@@ -1,0 +1,18 @@
+[2022-12-02 07:57:31.327] [exthost] [info] Extension host with pid 47263 started
+[2022-12-02 07:57:31.353] [exthost] [error] Error: EEXIST: file already exists, open '/root/.vscode-server/data/User/workspaceStorage/11e8db22f723f2592400fb9270f18344/vscode.lock'
+[2022-12-02 07:57:31.369] [exthost] [info] Lock '/root/.vscode-server/data/User/workspaceStorage/11e8db22f723f2592400fb9270f18344/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-12-02 07:57:31.378] [exthost] [info] Lock '/root/.vscode-server/data/User/workspaceStorage/11e8db22f723f2592400fb9270f18344/vscode.lock': The lock does not look stale, elapsed: 638 ms, giving up.
+[2022-12-02 07:57:31.388] [exthost] [info] Lock '/root/.vscode-server/data/User/workspaceStorage/11e8db22f723f2592400fb9270f18344-1/vscode.lock': Lock acquired.
+[2022-12-02 07:57:31.531] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-12-02 07:57:31.533] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-12-02 07:57:31.533] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-12-02 07:57:31.567] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-12-02 07:57:31.749] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-12-02 07:57:31.757] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-12-02 07:57:32.942] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5340
+[2022-12-02 07:57:34.599] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-02 07:57:34.601] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-02 07:57:34.602] [exthost] [info] Eager extensions activated
+[2022-12-02 07:57:34.774] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5341
+[2022-12-02 07:58:45.344] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5341
+[2022-12-02 08:22:29.806] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'

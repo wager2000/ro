@@ -1,0 +1,42 @@
+[2022-11-30 13:36:44.951] [remoteagent] [info] Extension host agent started.
+[2022-11-30 13:36:45.613] [remoteagent] [info] [127.0.0.1][c99e48ac][ManagementConnection] New connection established.
+[2022-11-30 13:36:45.636] [remoteagent] [info] [127.0.0.1][6081821c][ExtensionHostConnection] New connection established.
+[2022-11-30 13:36:45.644] [remoteagent] [info] [127.0.0.1][6081821c][ExtensionHostConnection] <2752> Launched Extension Host Process.
+[2022-11-30 13:37:01.509] [remoteagent] [info] [127.0.0.1][c99e48ac][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-11-30 13:37:01.530] [remoteagent] [info] [127.0.0.1][6081821c][ExtensionHostConnection] <2752> Extension Host Process exited with code: 0, signal: null.
+[2022-11-30 13:37:01.531] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-11-30 13:37:08.458] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-11-30 13:37:08.458] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-11-30 13:37:08.595] [remoteagent] [info] [127.0.0.1][8d4598f6][ManagementConnection] New connection established.
+[2022-11-30 13:37:08.637] [remoteagent] [info] [127.0.0.1][0d31f2cc][ExtensionHostConnection] New connection established.
+[2022-11-30 13:37:08.647] [remoteagent] [info] [127.0.0.1][0d31f2cc][ExtensionHostConnection] <2883> Launched Extension Host Process.
+[2022-11-30 13:38:05.924] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /root)
+[2022-11-30 13:38:05.926] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+[2022-11-30 13:38:47.378] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /root)
+[2022-11-30 13:38:47.379] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+[2022-11-30 13:38:48.001] [remoteagent] [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+[2022-11-30 13:42:08.554] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-11-30 14:01:28.694] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /root)
+[2022-11-30 14:01:28.695] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+[2022-11-30 14:06:33.991] [remoteagent] [info] [127.0.0.1][8d4598f6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-11-30 14:06:34.179] [remoteagent] [info] [127.0.0.1][0d31f2cc][ExtensionHostConnection] <2883> Extension Host Process exited with code: 0, signal: null.
+[2022-11-30 14:06:34.179] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-11-30 14:07:17.724] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-11-30 14:07:17.725] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-11-30 14:07:17.918] [remoteagent] [info] [127.0.0.1][fbf8178e][ManagementConnection] New connection established.
+[2022-11-30 14:07:17.996] [remoteagent] [info] [127.0.0.1][5b3b094e][ExtensionHostConnection] New connection established.
+[2022-11-30 14:07:18.022] [remoteagent] [info] [127.0.0.1][5b3b094e][ExtensionHostConnection] <11598> Launched Extension Host Process.
+[2022-11-30 14:07:28.005] [remoteagent] [info] [127.0.0.1][fbf8178e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-11-30 14:07:28.024] [remoteagent] [info] [127.0.0.1][5b3b094e][ExtensionHostConnection] <11598> Extension Host Process exited with code: 0, signal: null.
+[2022-11-30 14:07:28.025] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-11-30 14:07:28.025] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-11-30 14:07:35.218] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-11-30 14:07:35.218] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-11-30 14:07:35.358] [remoteagent] [info] [127.0.0.1][1b894161][ManagementConnection] New connection established.
+[2022-11-30 14:07:35.400] [remoteagent] [info] [127.0.0.1][642bb058][ExtensionHostConnection] New connection established.
+[2022-11-30 14:07:35.420] [remoteagent] [info] [127.0.0.1][642bb058][ExtensionHostConnection] <11729> Launched Extension Host Process.
+[2022-11-30 14:11:27.084] [remoteagent] [info] [127.0.0.1][642bb058][ExtensionHostConnection] The client has reconnected.
+[2022-11-30 14:12:35.219] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-11-30 17:11:41.857] [remoteagent] [info] [127.0.0.1][642bb058][ExtensionHostConnection] <11729> Extension Host Process exited with code: 0, signal: null.
+[2022-11-30 17:11:41.857] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-11-30 17:16:41.859] [remoteagent] [info] Last EH closed, shutting down

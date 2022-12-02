@@ -1,0 +1,6 @@
+[2022-12-01 12:15:56.317] [exthost] [info] Extension host with pid 30725 started
+[2022-12-01 12:16:02.682] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-12-01 12:16:02.881] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-12-01 12:16:02.887] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-12-01 12:16:06.261] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-12-01 12:16:06.298] [exthost] [info] Extension host with pid 30725 exiting with code 0
